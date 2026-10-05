@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.00,affordable_now,full_payment,2025-08-03:15656000.00,2025-08-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_27,6670.00,affordable_now,full_payment,2026-07-05:6670.00,2026-07-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_28,689.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_29,51524.00,affordable_now,full_payment,2025-11-04:51524.00,2025-11-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_30,775.20,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,The available installment option payment_option_83 keeps the balance above the minimum while spreading the cost over time.
+request_31,13840360.00,affordable_later,wait,2024-09-16:18164000.00,2024-09-16,none,"The full amount becomes safe on 2024-09-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_32,33305.80,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_33,65180.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_34,129400.00,affordable_now,full_payment,2024-12-04:129400.00,2024-12-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_35,125130.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_36,1446.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_37,12068800.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_38,379.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_39,203105.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_40,808.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_41,18968650.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_42,52100.00,affordable_now,full_payment,2026-01-05:52100.00,2026-01-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_43,12734750.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_44,74560.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_45,8833100.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_46,49450.00,affordable_with_plan,installments,2024-12-03:25714.00|2024-12-31:25714.00,2024-12-03,none,The available installment option payment_option_125 keeps the balance above the minimum while spreading the cost over time.
+request_47,38114000.00,affordable_now,full_payment,2025-05-05:38114000.00,2025-05-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_48,45700.00,affordable_now,full_payment,2026-07-25:45700.00,2026-07-25,none,The full amount is safe on the request date without cutting flexible spending.
+request_49,20228793.34,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_50,43900.00,affordable_now,full_payment,2025-08-06:43900.00,2025-08-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_51,2191000.00,affordable_now,full_payment,2026-01-03:2191000.00,2026-01-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_52,28870.00,affordable_now,full_payment,2024-06-05:28870.00,2024-06-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_53,1423.42,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_54,16581.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_55,176241.19,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_56,881.56,affordable_with_plan,installments,2025-02-03:458.42|2025-03-03:458.42,2025-02-03,none,The available installment option payment_option_155 keeps the balance above the minimum while spreading the cost over time.
+request_57,21214.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_58,16226000.00,affordable_now,full_payment,2024-12-07:16226000.00,2024-12-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_59,140600.00,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,The available installment option payment_option_163 keeps the balance above the minimum while spreading the cost over time.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_61,29062.00,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,The available installment option payment_option_169 keeps the balance above the minimum while spreading the cost over time.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_63,81995.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_64,60233.01,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_65,13024.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_66,22200.00,affordable_now,full_payment,2026-04-03:22200.00,2026-04-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_67,792.54,affordable_later,wait,2024-09-16:2094.00,2024-09-16,none,"The full amount becomes safe on 2024-09-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_68,2091.60,not_affordable,not_recommended,none,2025-02-07,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_69,529.10,affordable_later,wait,2026-01-04:529.10,2026-01-04,none,"The full amount becomes safe on 2026-01-04 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_70,93360.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_71,7485050.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_72,11330.00,affordable_now,full_payment,2026-07-05:11330.00,2026-07-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_73,71400.00,affordable_now,full_payment,2023-01-20:71400.00,2023-01-20,none,The full amount is safe on the request date without cutting flexible spending.
+request_74,5010.00,affordable_now,full_payment,2025-08-04:5010.00,2025-08-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_75,28270.00,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,The available installment option payment_option_208 keeps the balance above the minimum while spreading the cost over time.
+request_76,1538.80,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_77,60700.00,affordable_now,full_payment,2025-11-05:60700.00,2025-11-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_78,50200.00,affordable_now,full_payment,2025-10-02:50200.00,2025-10-02,none,The full amount is safe on the request date without cutting flexible spending.
+request_79,1104.08,affordable_with_plan,partial_payment,2024-09-04:1104.08|2024-09-16:1047.52,2024-09-16,none,A partial payment is safe now and the remaining balance can be settled on 2024-09-16 without breaching the minimum-balance rule.
+request_80,145405.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_81,2076.00,affordable_now,full_payment,2026-07-03:2076.00,2026-07-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_82,920.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_83,25530.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_84,56565.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_85,2422120.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_86,46300.00,affordable_now,full_payment,2025-08-03:46300.00,2025-08-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_87,92850.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_88,15557.89,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_89,13756000.00,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-11-04,none,The available installment option payment_option_248 keeps the balance above the minimum while spreading the cost over time.
+request_90,2560.00,affordable_now,full_payment,2026-07-06:2560.00,2026-07-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_91,1927.20,affordable_later,wait,2024-09-03:1927.20,2024-09-03,none,"The full amount becomes safe on 2024-09-03 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_92,34034.00,affordable_now,full_payment,2025-02-05:34034.00,2025-02-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_93,1729.20,affordable_with_plan,installments,2026-04-10:311.26|2026-05-08:311.26|2026-06-05:311.26|2026-07-03:311.26|2026-07-31:311.26|2026-08-28:311.26,2026-04-07,none,The available installment option payment_option_262 keeps the balance above the minimum while spreading the cost over time.
+request_94,572.00,affordable_now,full_payment,2024-12-04:572.00,2024-12-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_95,137865.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_96,90200.00,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-03,none,The available installment option payment_option_269 keeps the balance above the minimum while spreading the cost over time.
+request_97,8865.89,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-16,none,The available installment option payment_option_272 keeps the balance above the minimum while spreading the cost over time.
+request_98,17244.70,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_99,18062.00,affordable_now,full_payment,2026-07-04:18062.00,2026-07-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_100,33808.73,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-16,none,The available installment option payment_option_281 keeps the balance above the minimum while spreading the cost over time.
+request_101,143500.00,affordable_now,full_payment,2025-11-03:143500.00,2025-11-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_102,1716.00,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,The available installment option payment_option_287 keeps the balance above the minimum while spreading the cost over time.
+request_103,28269.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_104,17204.00,affordable_now,full_payment,2025-02-04:17204.00,2025-02-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_105,53500.00,affordable_now,full_payment,2026-06-08:53500.00,2026-06-08,none,The full amount is safe on the request date without cutting flexible spending.
+request_106,1401.70,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_107,2534.40,affordable_with_plan,installments,2025-05-08:878.59|2025-06-05:878.59|2025-07-03:878.59,2025-05-05,none,The available installment option payment_option_301 keeps the balance above the minimum while spreading the cost over time.
+request_108,7836.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_109,1276.46,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-03-16,none,The available installment option payment_option_307 keeps the balance above the minimum while spreading the cost over time.
+request_110,22352.00,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,The available installment option payment_option_310 keeps the balance above the minimum while spreading the cost over time.
+request_111,16625000.00,affordable_now,full_payment,2026-04-03:16625000.00,2026-04-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_112,271.70,affordable_later,wait,2024-06-05:271.70,2024-06-05,none,"The full amount becomes safe on 2024-06-05 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_113,36500.00,affordable_now,full_payment,2026-09-04:36500.00,2026-09-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_114,65300.00,affordable_now,full_payment,2026-01-04:65300.00,2026-01-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_115,27135.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_116,58075.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_117,880.00,affordable_now,full_payment,2026-07-05:880.00,2026-07-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_118,738.10,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2024-12-07,none,The available installment option payment_option_334 keeps the balance above the minimum while spreading the cost over time.
+request_119,130901.01,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_120,7714000.00,affordable_now,full_payment,2026-04-06:7714000.00,2026-04-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_121,633.60,affordable_later,wait,2024-03-03:633.60,2024-03-03,none,"The full amount becomes safe on 2024-03-03 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_122,20558000.00,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,The available installment option payment_option_347 keeps the balance above the minimum while spreading the cost over time.
+request_123,4076000.00,affordable_now,full_payment,2026-01-07:4076000.00,2026-01-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_124,2049.56,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-06-16,none,The available installment option payment_option_352 keeps the balance above the minimum while spreading the cost over time.
+request_125,6468.00,affordable_now,full_payment,2025-11-06:6468.00,2025-11-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_126,159600.00,affordable_now,full_payment,2026-07-03:159600.00,2026-07-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_127,23980.00,affordable_now,full_payment,2024-09-05:23980.00,2024-09-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_128,25168.00,affordable_now,full_payment,2025-02-07:25168.00,2025-02-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_129,288.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_130,917.46,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_131,1855.20,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-03,none,The available installment option payment_option_372 keeps the balance above the minimum while spreading the cost over time.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_133,15770000.00,not_affordable,not_recommended,none,2024-03-07,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_134,12118200.00,affordable_later,wait,2025-08-16:21831000.00,2025-08-16,none,"The full amount becomes safe on 2025-08-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_135,304.80,affordable_with_plan,installments,2026-07-20:54.86|2026-08-17:54.86|2026-09-14:54.86|2026-10-12:54.86|2026-11-09:54.86|2026-12-07:54.86,2026-07-06,none,The available installment option payment_option_385 keeps the balance above the minimum while spreading the cost over time.
+request_136,560.40,affordable_with_plan,partial_payment,2024-06-03:560.40|2024-06-03:0.00,2024-06-03,none,A partial payment is safe now and the remaining balance can be settled on 2024-06-03 without breaching the minimum-balance rule.
+request_137,67960.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_138,1075.15,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_139,2185.84,not_affordable,not_recommended,none,2024-09-16,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_140,9070.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_141,47625.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_143,7957.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_144,233.34,affordable_later,wait,2026-07-04:233.34,2026-07-04,none,"The full amount becomes safe on 2026-07-04 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_145,105613.66,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_146,81465.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_147,741.53,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_148,13181.08,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_149,36652.00,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-11-04,none,The available installment option payment_option_424 keeps the balance above the minimum while spreading the cost over time.
+request_150,496.10,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-06,none,The available installment option payment_option_427 keeps the balance above the minimum while spreading the cost over time.
+request_151,26999000.00,affordable_now,full_payment,2024-09-03:26999000.00,2024-09-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_152,13882.00,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-05,none,The available installment option payment_option_433 keeps the balance above the minimum while spreading the cost over time.
+request_153,503.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,The available installment option payment_option_438 keeps the balance above the minimum while spreading the cost over time.
+request_155,112500.00,affordable_now,full_payment,2025-05-06:112500.00,2025-05-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_156,11971.30,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_157,10091850.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_158,242600.00,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,The available installment option payment_option_449 keeps the balance above the minimum while spreading the cost over time.
+request_159,13398.00,affordable_now,full_payment,2026-01-04:13398.00,2026-01-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_160,770.61,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_161,16185150.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_162,6756400.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_163,19304000.00,not_affordable,not_recommended,none,2024-09-07,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_164,27018000.00,affordable_with_plan,installments,2025-02-11:9366240.00|2025-03-11:9366240.00|2025-04-08:9366240.00,2025-02-04,none,The available installment option payment_option_465 keeps the balance above the minimum while spreading the cost over time.
+request_165,80600.00,affordable_now,full_payment,2026-04-06:80600.00,2026-04-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,The available installment option payment_option_471 keeps the balance above the minimum while spreading the cost over time.
+request_167,43802.00,affordable_now,full_payment,2025-05-05:43802.00,2025-05-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_168,49380.00,not_affordable,not_recommended,none,2026-01-07,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_169,41976.00,affordable_now,full_payment,2024-03-04:41976.00,2024-03-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_170,36936000.00,affordable_with_plan,installments,2025-08-06:12804480.00|2025-09-03:12804480.00|2025-10-01:12804480.00,2025-08-06,none,The available installment option payment_option_483 keeps the balance above the minimum while spreading the cost over time.
+request_171,310.65,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_172,10200.00,affordable_with_plan,installments,2024-06-05:5304.00|2024-07-03:5304.00,2024-06-05,none,The available installment option payment_option_489 keeps the balance above the minimum while spreading the cost over time.
+request_173,83190.53,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_174,1146.20,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,The available installment option payment_option_494 keeps the balance above the minimum while spreading the cost over time.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_176,686.95,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_177,1017.60,affordable_later,wait,2026-01-05:1017.60,2026-01-05,none,"The full amount becomes safe on 2026-01-05 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_178,2938.10,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,The available installment option payment_option_506 keeps the balance above the minimum while spreading the cost over time.
+request_179,37957250.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_180,66500.00,affordable_now,full_payment,2026-07-06:66500.00,2026-07-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_181,1049.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_182,65714.00,affordable_now,full_payment,2025-08-05:65714.00,2025-08-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_183,26866000.00,not_affordable,not_recommended,none,2026-04-07,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_184,47540.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_185,783.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_186,22863.50,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_187,67435.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_188,585.30,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_190,1555.80,affordable_later,wait,2024-12-16:2557.50,2024-12-16,none,"The full amount becomes safe on 2024-12-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_191,664.40,affordable_later,wait,2025-05-03:664.40,2025-05-03,none,"The full amount becomes safe on 2025-05-03 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_192,384.80,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_193,310.62,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_194,95030.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_195,1170.40,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-06,none,The available installment option payment_option_555 keeps the balance above the minimum while spreading the cost over time.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_197,50939000.00,affordable_with_plan,installments,2025-11-19:17658853.33|2025-12-17:17658853.33|2026-01-14:17658853.33,2025-11-05,none,The available installment option payment_option_562 keeps the balance above the minimum while spreading the cost over time.
+request_198,185800.00,affordable_now,full_payment,2026-07-07:185800.00,2026-07-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_199,23674000.00,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,The available installment option payment_option_569 keeps the balance above the minimum while spreading the cost over time.
+request_200,21717000.00,affordable_now,full_payment,2025-02-06:21717000.00,2025-02-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_201,23997000.00,affordable_now,full_payment,2026-04-03:23997000.00,2026-04-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_202,123900.00,affordable_now,full_payment,2024-12-05:123900.00,2024-12-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_203,1442.10,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,The available installment option payment_option_583 keeps the balance above the minimum while spreading the cost over time.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_205,10621000.00,affordable_now,full_payment,2024-03-06:10621000.00,2024-03-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_206,1404.70,affordable_with_plan,partial_payment,2025-08-03:1404.70|2025-08-03:0.00,2025-08-03,none,A partial payment is safe now and the remaining balance can be settled on 2025-08-03 without breaching the minimum-balance rule.
+request_207,11830.00,affordable_now,full_payment,2026-07-05:11830.00,2026-07-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_208,4413000.00,affordable_now,full_payment,2024-06-07:4413000.00,2024-06-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_209,8625.10,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_210,1233.72,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_211,1227.89,affordable_later,wait,2024-09-16:1788.60,2024-09-16,none,"The full amount becomes safe on 2024-09-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_212,22344000.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_213,3362.40,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,The available installment option payment_option_610 keeps the balance above the minimum while spreading the cost over time.
+request_214,69750.00,affordable_with_plan,installments,2024-12-04:36270.00|2025-01-01:36270.00,2024-12-04,none,The available installment option payment_option_614 keeps the balance above the minimum while spreading the cost over time.
+request_215,29986.00,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,The available installment option payment_option_616 keeps the balance above the minimum while spreading the cost over time.
+request_216,1166.80,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_217,31601.97,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-16,none,The available installment option payment_option_622 keeps the balance above the minimum while spreading the cost over time.
+request_218,37942414.80,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-08-16,none,The available installment option payment_option_625 keeps the balance above the minimum while spreading the cost over time.
+request_219,1673.10,not_affordable,not_recommended,none,2026-04-04,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_220,227.32,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_221,109800.00,affordable_now,full_payment,2025-11-03:109800.00,2025-11-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_222,34078.00,affordable_now,full_payment,2026-01-05:34078.00,2026-01-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_224,10327000.00,affordable_with_plan,installments,2025-02-04:5370040.00|2025-03-04:5370040.00,2025-02-04,none,The available installment option payment_option_645 keeps the balance above the minimum while spreading the cost over time.
+request_225,18120459.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_226,157000.00,affordable_now,full_payment,2024-12-03:157000.00,2024-12-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_227,42755.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_228,10557350.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_229,727.52,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_230,3537.60,affordable_later,wait,2025-08-06:3537.60,2025-08-06,none,"The full amount becomes safe on 2025-08-06 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_231,35706.00,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,The available installment option payment_option_666 keeps the balance above the minimum while spreading the cost over time.
+request_232,1869.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_233,6241000.00,affordable_with_plan,installments,2025-11-14:3245320.00|2025-12-15:3245320.00,2025-11-07,none,The available installment option payment_option_673 keeps the balance above the minimum while spreading the cost over time.
+request_234,482.95,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_236,14404850.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_237,23826000.00,affordable_now,full_payment,2026-04-05:23826000.00,2026-04-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_238,663.60,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,The available installment option payment_option_686 keeps the balance above the minimum while spreading the cost over time.
+request_239,642.00,affordable_now,full_payment,2025-05-04:642.00,2025-05-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_240,34880.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_241,21052000.00,not_affordable,not_recommended,none,2024-03-03,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_242,301.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_243,17468.00,affordable_now,full_payment,2026-07-07:17468.00,2026-07-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_244,49918.00,affordable_now,full_payment,2024-06-04:49918.00,2024-06-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_245,65760.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_246,64086.00,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,The available installment option payment_option_710 keeps the balance above the minimum while spreading the cost over time.
+request_247,1059.30,affordable_later,wait,2024-09-05:1059.30,2024-09-05,none,"The full amount becomes safe on 2024-09-05 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_248,1507.36,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_249,342.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_250,28820.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_251,1513.60,not_affordable,not_recommended,none,2025-05-03,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_252,8122500.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_253,2143.57,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_254,1759.60,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_255,3345000.00,affordable_now,full_payment,2026-04-06:3345000.00,2026-04-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_256,218700.00,not_affordable,not_recommended,none,2024-06-03,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_257,1085.20,affordable_later,wait,2025-11-16:1352.40,2025-11-16,none,"The full amount becomes safe on 2025-11-16 based on the forecasted cash flow, so waiting is the safest eligible recommendation."
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,The full amount is safe on the request date without cutting flexible spending.
+request_259,627.30,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_260,11985200.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,The full amount is safe on the request date without cutting flexible spending.
+request_262,9236000.00,affordable_now,full_payment,2024-12-05:9236000.00,2024-12-05,none,The full amount is safe on the request date without cutting flexible spending.
+request_263,12782.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_264,39795.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_265,45970.00,affordable_now,full_payment,2024-03-06:45970.00,2024-03-06,none,The full amount is safe on the request date without cutting flexible spending.
+request_266,935.00,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-03,none,The available installment option payment_option_764 keeps the balance above the minimum while spreading the cost over time.
+request_267,1925.00,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-05,none,The available installment option payment_option_767 keeps the balance above the minimum while spreading the cost over time.
+request_268,1512.52,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_269,15490.00,affordable_now,full_payment,2025-11-04:15490.00,2025-11-04,none,The full amount is safe on the request date without cutting flexible spending.
+request_270,535.40,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_271,84760.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_272,8815924.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_273,13372200.00,not_affordable,not_recommended,none,,none,No eligible safe payment path is available within the forecast period without exceeding the minimum balance threshold.
+request_274,2713.70,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-04,none,The available installment option payment_option_785 keeps the balance above the minimum while spreading the cost over time.
+request_275,15884000.00,affordable_now,full_payment,2025-05-06:15884000.00,2025-05-06,none,The full amount is safe on the request date without cutting flexible spending.
